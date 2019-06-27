@@ -1,0 +1,16 @@
+.employees {
+    width: 400px;
+    margin: 100px auto;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background: #dce4ec;
+}
+
+table th{
+    background: #34495e;
+    color: #ffffff;
+}
